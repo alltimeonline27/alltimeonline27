@@ -1,19 +1,22 @@
 <h1 align="center">Bhaskar Charan</h1>
-<h3 align="center">Full Stack Web Developer | CSE Student</h3>
 
 <p align="center">
-🚀 Building real-world web applications • AI + Web • Hackathons • Startups
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;CSE+Student+%7C+Hackathon+Builder;AI+%2B+Web+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=alltimeonline27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd-year Computer Science Engineering Student  
-- 💻 Full-stack web developer (HTML, CSS, JS, Node, Python)  
-- 🧠 AI + Automation enthusiast  
-- 🏆 Hackathon participant (SIH, etc.)  
-- 🌍 From Kolkata, India  
+🎓 2nd-year Computer Science Engineering Student  
+💻 Full-stack Web Developer  
+🚀 Hackathon & Startup Builder  
+🧠 AI + Automation Enthusiast  
+📍 Kolkata, India  
 
 ---
 
@@ -28,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alltimeonline27&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alltimeonline27&theme=tokyonight" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alltimeonline27&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alltimeonline27&theme=tokyonight" />
 </p>
 
 ---
@@ -42,7 +45,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alltimeonline27&theme=react-dark" />
@@ -50,33 +53,32 @@
 
 ---
 
-## 🚀 Featured Project
+## 🏆 GitHub Trophies
 
-**Champion Bharat – SIH Hackathon 2025**  
-AI-powered sports talent assessment platform for India 🇮🇳  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=alltimeonline27&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Pinned Projects
+
+<p align="center">
+<a href="https://github.com/alltimeonline27/Champion-Bharat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alltimeonline27&repo=Champion-Bharat&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/alltimeonline27/bhaskar-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alltimeonline27&repo=bhaskar-portfolio&theme=tokyonight" />
+</a>
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourlink"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/alltimeonline27"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
-## Hi there 👋
-
-<!--
-**alltimeonline27/alltimeonline27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
