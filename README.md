@@ -8,6 +8,13 @@
 <img src="https://komarev.com/ghpvc/?username=alltimeonline27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-Available%20For%20Work-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -17,6 +24,13 @@
 🚀 Hackathon & Startup Builder  
 🧠 AI + Automation Enthusiast  
 📍 Kolkata, India  
+
+<p align="center">
+<a href="https://drive.google.com/your-resume-link">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-0ea5e9?style=for-the-badge&logo=adobe&logoColor=white" />
+</a>
+</p>
+
 
 ---
 
@@ -49,6 +63,15 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alltimeonline27&theme=react-dark" />
+</p>
+
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alltimeonline27&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alltimeonline27&theme=tokyonight" />
 </p>
 
 ---
