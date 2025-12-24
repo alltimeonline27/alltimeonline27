@@ -40,7 +40,7 @@
 ## 🔥 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alltimeonline27&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alltimeonline27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alltimeonline27&theme=react-dark" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=alltimeonline27&theme=react-dark" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alltimeonline27&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=alltimeonline27&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -65,11 +65,11 @@
 
 <p align="center">
 <a href="https://github.com/alltimeonline27/Champion-Bharat">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alltimeonline27&repo=Champion-Bharat&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alltimeonline27&repo=Champion-Bharat&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/alltimeonline27/bhaskar-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=alltimeonline27&repo=bhaskar-portfolio&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alltimeonline27&repo=bhaskar-portfolio&theme=tokyonight" />
 </a>
 </p>
 
