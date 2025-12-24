@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:alltimeonline.official@gmail.com">
 <img src="https://img.shields.io/badge/Hire%20Me-Available%20For%20Work-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
