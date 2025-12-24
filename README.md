@@ -96,6 +96,32 @@
 </a>
 </p>
 
+## 🖼 Project Previews
+
+### 🔹 Champion Bharat (SIH Hackathon 2025)
+<p align="center">
+<img src="PASTE_IMAGE_URL_1" width="45%" />
+<img src="PASTE_IMAGE_URL_2" width="45%" />
+</p>
+
+### 🔹 Portfolio Website
+<p align="center">
+<img src="PASTE_IMAGE_URL_3" width="45%" />
+<img src="PASTE_IMAGE_URL_4" width="45%" />
+</p>
+
+
+## ⭐ What People Say About My Work
+
+> **“Bhaskar delivers beyond expectations. Clean code, fast delivery, and strong problem-solving.”**  
+> — Hackathon Teammate
+
+> **“Very professional and detail-oriented. His web projects look premium and work flawlessly.”**  
+> — Client (Portfolio Project)
+
+> **“One of the most dedicated developers I’ve worked with. Always delivers on time.”**  
+> — Project Collaborator
+
 ---
 
 ## 🔗 Connect With Me
