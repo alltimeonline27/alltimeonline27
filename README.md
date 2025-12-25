@@ -84,17 +84,18 @@
 
 ---
 
-## 🚀 Pinned Projects
+## 🚀 Exclusive Projects
+
+<a href="https://github.com/alltimeonline27/Happy-New-Year-2026">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alltimeonline27&repo=Happy-New-Year-2026&theme=tokyonight" />
+</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/alltimeonline27/Champion-Bharat">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alltimeonline27&repo=Champion-Bharat&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/alltimeonline27/bhaskar-portfolio">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alltimeonline27&repo=bhaskar-portfolio&theme=tokyonight" />
-</a>
-</p>
 
 ## 🖼 Project Previews
 
